@@ -167,8 +167,12 @@ https://github.com/swisscom/
 *.localclubs.ch
 *.localina.com
 *.localreservation.ch
+*.localsearch-business.ch
+*.localsearch-free.ch
+*.localsearch-hosting.ch
 *.localsearch.ch
 *.localsearch.tech
+*.localsearchweb.ch
 *.maler-gipser-vergleich.ch
 *.massagevergleich.ch
 *.metzgereivergleich.ch
