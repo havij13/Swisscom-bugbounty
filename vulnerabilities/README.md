@@ -51,6 +51,7 @@ also exclude certain classes of vulnerabilities.
 | Jun 2024 | Leaked Credentials | Reports of leaked credentials e.g. originating from infostealers, password dumps, etc. are not eligible for bounties. |
 | Dec 2024 | NTLM over HTTP Information Disclosure | Host information can be enumerated when NTLM over HTTP authentication is supported and exposed. This is considered as disclosure of non-sensitive information (w.r.t. data protection laws) and will be rejected unless further impact is demonstrated. |
 | Jan 2025 | Leaked Credentials (2) | Credentials and other sensitive leaks aggregated in third-party sites (e.g. otx.alienvault, virustotal) without demonstrating that a vulnerability on our end caused the breach. |
+| May 2026 | Localsearch Tenant Boundary | The security boundary for all Localsearch‑operated services (e.g., MyCOCKPIT, MyLOCALINA, MyCOMMERCE, MyWEBSITE, digitalONE, Localclubs, etc) is defined at the tenant level (e.g., a restaurant, hairdresser, or club). Issues limited to a single tenant's environment or data are not eligible for rewards. Issues that cross the tenant-boundary, such as broken access control, privilege escalation, data exposure that allow unauthorized access to or impact on another tenant’s data or functionality are eligible for rewards. |
 
 ## 1-Day Vulnerabilities
 Most non-critical patches are applied during standard maintenance 
