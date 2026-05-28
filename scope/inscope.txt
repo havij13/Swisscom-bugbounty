@@ -115,10 +115,7 @@ zabbix.mtf.li
 https://github.com/swisscom/
 
 # Swisscom Broadcast AG
-*.audiovideo-sa.ch
 *.sbcdc.ch
-*.viaas.ch
-*.videoinsider.ch
 
 # Swisscom Digital Technology SA
 *.owt.swiss
@@ -208,6 +205,11 @@ https://github.com/swisscom/
 
 # Swisscom Event & Media Solutions AG
 *.swisscomstream.ch
+
+# Swisscom Secure Vision AG
+*.audiovideo-sa.ch
+*.viaas.ch
+*.videoinsider.ch
 
 # Teldas GmbH
 *.teldas.ch
